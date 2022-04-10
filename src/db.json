@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "name": "Chandrakant Deore",
+      "age": "23",
+      "dateOfBirth": "1999-05-13",
+      "stateOfResidence": "Malegaon",
+      "address": "Malegaon",
+      "pincode": "423110",
+      "id": 1
+    },
+    {
+      "name": "Rahul",
+      "age": "23",
+      "dateOfBirth": "1998-04-10",
+      "stateOfResidence": "Maharastra",
+      "address": "Malegaon",
+      "pincode": "423103",
+      "id": 2
+    },
+    {
+      "name": "Vaibhav Jadhav",
+      "age": "23",
+      "dateOfBirth": "2022-04-13",
+      "stateOfResidence": "Maharastra",
+      "address": "Nashik",
+      "pincode": "423110",
+      "id": 3
+    },
+    {
+      "name": "Dharmesh Sonar",
+      "age": "24",
+      "dateOfBirth": "1999-03-23",
+      "stateOfResidence": "Maharastra",
+      "address": "Malegaon",
+      "pincode": "423103",
+      "id": 4
+    }
+  ]
+}
